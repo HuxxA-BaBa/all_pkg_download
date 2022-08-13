@@ -1,4 +1,4 @@
-# all_pkg_download
+# all_pkg_install
 
 
 ## Installation 
